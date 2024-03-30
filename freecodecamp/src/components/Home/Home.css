@@ -1,0 +1,36 @@
+.home{
+    margin-top: 150px;
+    align-items: center;
+}
+
+.code{
+    margin-left: 350px;
+}
+
+.stats{
+    margin-left: 350px;
+    align-items: center;
+}
+
+.intro{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 0.2rem;
+}
+
+.code-button{
+    margin-left: 21%;
+    background-color: #ddb609; 
+    border-color: #140123;
+    color: #140123; 
+    border: none;
+    padding: 0.5rem 1rem; 
+    cursor: pointer;
+    
+}
+
+.company-logos{
+    display:flex;
+    width:30px;
+    height: 30px;
+    gap:20px
+}

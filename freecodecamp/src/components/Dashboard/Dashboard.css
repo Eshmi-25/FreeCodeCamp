@@ -1,0 +1,42 @@
+.welcome {
+    margin-top:10%;
+      align-content: center;
+      align-items: center;
+      margin-left: 350px;
+  }
+    
+    .certifications {
+      align-content: center;
+      align-items: center;
+      margin-left: 160px;
+      
+    }
+    
+    .certifications h2 {
+      font-size: 1.5em;
+      margin-bottom: 20px;
+    }
+    
+    .certifications ul {
+      list-style: none;
+      margin: 0;
+    }
+    .course-item {
+      margin: 10px;
+      background-color: rgb(179, 177, 177);
+      border: 1px solid;
+      padding: 0.5rem;
+      border-color: black;
+      width: 600px;
+      height: 50px;
+      margin-left: 15%;
+      
+    }
+    
+    .course-icon {
+      width: 30px;
+      height: 30px;
+      margin-right: 10px;
+      
+    }
+    

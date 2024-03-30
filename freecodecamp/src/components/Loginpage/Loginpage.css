@@ -1,0 +1,21 @@
+
+  .login{
+
+        background-color: #fde906; 
+        color: #140123; 
+        border-color: black;
+        border: none;
+        padding: 0.5rem 1rem; 
+        cursor: pointer;
+}
+
+.logingoogle{
+  width: 280px;
+  background-color: #8ef5f5; 
+  color: #140123; 
+  border: none;
+  padding: 0.5rem 1rem; 
+  cursor: pointer;
+  margin-top: 10px;
+  height: 40px;
+}
